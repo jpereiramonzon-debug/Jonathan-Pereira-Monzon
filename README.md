@@ -1,68 +1,80 @@
-# Olá! 👋 Meu nome é Jonathan Pereira Monzon
+<div align="center">
 
-### 🖥️ Auxiliar de Infraestrutura em TI | 🎓 Análise e Desenvolvimento de Sistemas
+# 👋 Olá, eu sou Jonathan Pereira Monzon
 
-Sou profissional da área de **Tecnologia da Informação**, atualmente atuando como **Auxiliar de Infraestrutura em TI** e estudante de **Análise e Desenvolvimento de Sistemas**.
+### 🖥️ Auxiliar de Infraestrutura em TI
 
-Tenho interesse em infraestrutura, redes, sistemas, desenvolvimento de software e tecnologias que ajudam a tornar ambientes de TI mais eficientes e confiáveis.
+### 🎓 Análise e Desenvolvimento de Sistemas
 
-Busco constantemente aprimorar meus conhecimentos, transformar aprendizado em prática e evoluir profissionalmente na área de tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Infraestrutura+%7C+Redes+%7C+Desenvolvimento;Sempre+aprendendo%2C+sempre+evoluindo.;Transformando+ideias+em+projetos+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🖥️ Auxiliar de Infraestrutura em TI
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-* 🌐 Interesse em Infraestrutura, Redes e Sistemas
-* 💻 Aprendendo e desenvolvendo projetos na área de programação
-* 📚 Sempre buscando novos conhecimentos em tecnologia
+🖥️ Infraestrutura de TI
+🎓 Estudante de ADS
+💻 Desenvolvimento de aplicações
+🌐 Redes & Sistemas
+📚 Aprendizado contínuo
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
-### 💻 Desenvolvimento
+<div align="center">
 
-`HTML` `CSS` `JavaScript` `Python`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,linux,windows,git,github,vscode" />
 
-### 🖥️ Infraestrutura
-
-`Windows` `Linux` `Redes` `Hardware`
-
-### 🔧 Ferramentas
-
-`Git` `GitHub` `VS Code`
-
-> As tecnologias acima podem ser ajustadas conforme sua experiência e os conhecimentos que você realmente possui.
-
----
-
-## 📌 Atualmente
-
-🔹 Atuando profissionalmente com **Infraestrutura de TI**
-🔹 Cursando **Análise e Desenvolvimento de Sistemas**
-🔹 Desenvolvendo meus conhecimentos em **programação e desenvolvimento**
-🔹 Criando projetos para colocar meus estudos em prática
+</div>
 
 ---
 
 ## 📂 Projetos
 
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, estudos e evolução profissional.
+| Projeto                  | Descrição                                   |
+| ------------------------ | ------------------------------------------- |
+| ⛪ **App de Escalas**     | Aplicação web para gerenciamento de escalas |
+| 📅 **Gestão de Escalas** | Sistema com frontend e backend              |
 
-> 🚧 Novos projetos em desenvolvimento...
+<div align="center">
+
+<a href="https://github.com/jpereiramonzon-debug/app-escala-igreja-final">
+<img src="https://img.shields.io/badge/🚀%20App%20de%20Escalas-Visitar%20Projeto-00BFFF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/jpereiramonzon-debug/gestao-escalas-ministeriais">
+<img src="https://img.shields.io/badge/💻%20Gestão%20de%20Escalas-Código-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📊 GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jpereiramonzon-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpereiramonzon-debug&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Sempre aprendendo, sempre evoluindo."</i>
-</p>
+<div align="center">
+
+### 🤝 Vamos nos conectar?
+
+<a href="https://github.com/jpereiramonzon-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" />
+
+</div>
