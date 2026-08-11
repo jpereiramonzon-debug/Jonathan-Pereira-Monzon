@@ -10,15 +10,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre Mim
 
 Sou **Auxiliar de Infraestrutura em TI** e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Tenho interesse em **infraestrutura, redes, desenvolvimento de aplicações e automação de processos**, buscando transformar problemas em soluções práticas e eficientes.
+Tenho interesse em **infraestrutura, redes, desenvolvimento de aplicações e automação de processos**, buscando transformar problemas do dia a dia em soluções práticas e eficientes.
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <div align="center">
 
@@ -30,68 +30,66 @@ Tenho interesse em **infraestrutura, redes, desenvolvimento de aplicações e au
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Python+%7C+Linux+%7C+Windows;Git+%7C+GitHub+%7C+VS+Code" alt="Tecnologias">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Python+%7C+Linux+%7C+Windows;Git+%7C+GitHub+%7C+VS+Code" alt="Tecnologias">
 
 </div>
 
 ---
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/jpereiramonzon-debug/app-escala-igreja-final">
-<img src="https://img.shields.io/badge/⛪%20App%20de%20Escalas-Visitar%20Projeto-00BFFF?style=for-the-badge" alt="App de Escalas">
-</a>
+<td width="50%" valign="top">
 
-  
+<h3>⛪ App de Escalas</h3>
 
-<a href="https://github.com/jpereiramonzon-debug/gestao-escalas-ministeriais">
-<img src="https://img.shields.io/badge/📅%20Gestão%20de%20Escalas-Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gestão de Escalas">
-</a>
-
-</div>
-
-### ⛪ App de Escalas
-
-Aplicação web desenvolvida para **gerenciamento e organização de escalas**, facilitando a distribuição de funções e participantes.
-
-### 📅 Gestão de Escalas
-
-Sistema com **frontend e backend** para gerenciamento de escalas e informações.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jpereiramonzon-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpereiramonzon-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
+<p>
+Aplicação web desenvolvida para gerenciamento e organização de escalas.
+</p>
 
 <br>
 
-<div align="center">
+<a href="https://github.com/jpereiramonzon-debug/app-escala-igreja-final">
+<img src="https://img.shields.io/badge/VISITAR%20REPOSITÓRIO-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jpereiramonzon-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</td>
 
-</div>
+<td width="50%" valign="top">
+
+<h3>📅 Gestão de Escalas</h3>
+
+<p>
+Sistema com frontend e backend para gerenciamento de escalas.
+</p>
+
+<br>
+
+<a href="https://github.com/jpereiramonzon-debug/gestao-escalas-ministeriais">
+<img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🤝 Conecte-se comigo
+# 🤝 Conecte-se Comigo
 
 <div align="center">
 
 <a href="https://github.com/jpereiramonzon-debug">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/jonathan-pereira-monzon-301077283/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -100,6 +98,6 @@ Sistema com **frontend e backend** para gerenciamento de escalas e informações
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer">
 
 </div>
