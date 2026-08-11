@@ -52,7 +52,7 @@ Aplicação web desenvolvida para <strong>gerenciamento e organização de escal
 <br>
 
 <a href="https://github.com/jpereiramonzon-debug/app-escala-igreja-final">
-<img src="https://img.shields.io/badge/VISITAR%20REPOSITÓRIO-00BFFF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VISITAR%20REPOSITÓRIO-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Visitar repositório">
 </a>
 
 </td>
@@ -62,17 +62,17 @@ Aplicação web desenvolvida para <strong>gerenciamento e organização de escal
 <h3>📅 Gestão de Escalas</h3>
 
 <p>
-<strong>🎓 Projeto de TCC</strong> desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
+<strong>🎓 TCC — Em desenvolvimento</strong>
 </p>
 
 <p>
-Sistema com <strong>frontend e backend</strong> voltado ao gerenciamento de escalas.
+Sistema em desenvolvimento durante o curso de <strong>Análise e Desenvolvimento de Sistemas</strong>, com frontend e backend voltado ao gerenciamento de escalas.
 </p>
 
 <br>
 
 <a href="https://github.com/jpereiramonzon-debug/gestao-escalas-ministeriais">
-<img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ACOMPANHAR%20PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Acompanhar projeto">
 </a>
 
 </td>
@@ -87,13 +87,13 @@ Sistema com <strong>frontend e backend</strong> voltado ao gerenciamento de esca
 <div align="center">
 
 <a href="https://github.com/jpereiramonzon-debug">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/jonathan-pereira-monzon-301077283/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
