@@ -46,7 +46,7 @@ Tenho interesse em **infraestrutura, redes, desenvolvimento de aplicações e au
 <h3>⛪ App de Escalas</h3>
 
 <p>
-Aplicação web desenvolvida para gerenciamento e organização de escalas.
+Aplicação web desenvolvida para <strong>gerenciamento e organização de escalas</strong>, facilitando a distribuição de funções e participantes.
 </p>
 
 <br>
@@ -62,7 +62,11 @@ Aplicação web desenvolvida para gerenciamento e organização de escalas.
 <h3>📅 Gestão de Escalas</h3>
 
 <p>
-Sistema com frontend e backend para gerenciamento de escalas.
+<strong>🎓 Projeto de TCC</strong> desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas.
+</p>
+
+<p>
+Sistema com <strong>frontend e backend</strong> voltado ao gerenciamento de escalas.
 </p>
 
 <br>
@@ -98,6 +102,6 @@ Sistema com frontend e backend para gerenciamento de escalas.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" alt="Footer">
 
 </div>
