@@ -82,6 +82,16 @@ Sistema em desenvolvimento durante o curso de <strong>Análise e Desenvolvimento
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jpereiramonzon-debug/jpereiramonzon-debug/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
 # 🤝 Conecte-se Comigo
 
 <div align="center">
